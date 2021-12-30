@@ -1,3 +1,5 @@
 #!/bin/bash
 
 echo "this is sample program"
+
+echo "this is new update"
